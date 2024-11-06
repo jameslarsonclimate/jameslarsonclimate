@@ -1,6 +1,5 @@
 ## Hi there 👋
-- James Larson (he/him)
-I am a PhD student in the Department of Atmospheric Science at Colorado State University. I'm interested in societal-climate interactions and how they can be represented in models. Prior to this project, during my master’s degree, I explored how ocean currents leave their signature on climate variability, particularly in high-resolution reanalyses and climate models. Outside of research, I am involved in community-based solutions to food insecurity. Please feel welcome to reach out with any questions and inquiries to collaborate!
+My name is James Larson (he/him). I am a PhD student in the Department of Atmospheric Science at Colorado State University. I'm interested in societal-climate interactions and how they can be represented in models. Prior to this project, during my master’s degree, I explored how ocean currents leave their signature on climate variability, particularly in high-resolution reanalyses and climate models. Outside of research, I am involved in community-based solutions to food insecurity. Please feel welcome to reach out with any questions and inquiries to collaborate!
 
 <!--
 **jameslarsonclimate/jameslarsonclimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
